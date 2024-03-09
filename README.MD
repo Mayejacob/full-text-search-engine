@@ -16,8 +16,12 @@ This is a simple full-text search engine implemented in Go. It indexes and searc
 
 ### Installation
 
+[Download the Wikipedia abstract dump file](https://dumps.wikipedia.org/enwiki/latest/enwiki-latest-abstract1.xml.gz)
+
 Clone the repository:
 
 ```bash
 git clone https://github.com/Mayejacob/full-text-search-engine.git
 ```
+
+
